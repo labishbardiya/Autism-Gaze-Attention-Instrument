@@ -10,7 +10,7 @@ The `.scad` file in `cad/` is editable source. Its dimensions are placeholders u
 
 ## Budget gate
 
-The planned prototype allocation is **₹26,000** with **₹4,000 uncommitted** under the ₹30,000 ceiling, reusing an existing laptop. A clinically usable research eye tracker is a separate validated procurement decision; no low-cost webcam output is claimed to be diagnostic.
+The planned prototype allocation is **₹13,000** with **₹17,000 uncommitted** under the ₹30,000 ceiling, reusing an existing laptop. A clinically usable research eye tracker is a separate validated procurement decision; no low-cost webcam output is claimed to be diagnostic.
 
 ## Validation and approvals
 
